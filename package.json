@@ -1,0 +1,29 @@
+{
+  "name": "mean-stack-angular-8",
+  "version": "1.0.0",
+  "description": "Mean stack with angular \u001b[A\u001b[B8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafahamed15/mean-stack-with-angular-8.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "Application"
+  ],
+  "author": "Mostafa Hamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafahamed15/mean-stack-with-angular-8/issues"
+  },
+  "homepage": "https://github.com/mostafahamed15/mean-stack-with-angular-8#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4"
+  }
+}
